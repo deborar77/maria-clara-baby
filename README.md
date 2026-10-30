@@ -1,6 +1,6 @@
 # Maria Clara Baby — Simulador de Compras
 
-**Aluno:** Débora Rodrigues dos Santos  
+**Aluno:** Débora Rodrigues dos Santos
 **Trilha:** Desenvolvimento Mobile — Trilhas, 3ª edição  
 **Desafio:** Desafio 1 — Minha Loja: Simulador de Compras
 
