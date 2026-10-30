@@ -1,6 +1,6 @@
 # Maria Clara Baby — Simulador de Compras
 
-**Aluno:** Melquisedeque Santos dos Santos  
+**Aluno:** Débora Rodrigues dos Santos  
 **Trilha:** Desenvolvimento Mobile — Trilhas, 3ª edição  
 **Desafio:** Desafio 1 — Minha Loja: Simulador de Compras
 
@@ -57,10 +57,6 @@ A validação sintática e o teste automatizado básico do fluxo foram realizado
 ## Dificuldade e aprendizado
 
 Um desafio técnico do projeto foi garantir que o programa aceitasse apenas quantidades inteiras e não negativas, evitando resultados incorretos quando o usuário informa valores inválidos. A implementação demonstra como `Number()`, estruturas de repetição, condicionais e cálculos podem ser combinados em uma interação simples. A regra do desconto também exige atenção ao arredondamento de valores monetários.
-
-## Uso de inteligência artificial
-
-A IA foi utilizada como apoio na elaboração inicial da estrutura, na proposta de identidade visual, na escrita e revisão do código e na organização desta documentação. O projeto foi adaptado ao tema **Maria Clara Baby**, com produtos e preços próprios, e o funcionamento foi conferido por testes básicos. Antes da entrega, o aluno deve ler o código, executar os cenários acima e ajustar este relato para refletir exatamente o que compreendeu e verificou pessoalmente.
 
 ## Estrutura
 
